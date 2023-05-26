@@ -7,6 +7,8 @@
  body {
    box-sizing: border-box;
    background-color: black;
+   font-family: fantasy;
+   color: white;
  }
  img {
    display: block;
